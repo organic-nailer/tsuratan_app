@@ -11,7 +11,7 @@ const RESOURCES = {
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets\sound\explosion.mp3": "ce38a00a24d7a628c2690bb0de977bf1",
 "/index.html": "982fe212833c645c6911c6279edabc2b",
-"/main.dart.js": "af67e9d88d75ab9a86e784d1703678d1"
+"/main.dart.js": "0c7e8d91d36e334c2bd7445c7fb454e8"
 };
 
 self.addEventListener('activate', function (event) {
