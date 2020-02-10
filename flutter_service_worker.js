@@ -7,11 +7,11 @@ const RESOURCES = {
 "/assets\image\torofi_gold.png": "d6c1638c31b578e3cf1d8f342d37e019",
 "/assets\image\torofi_gray.png": "8f3ba8540231526e7aa69b19af2ab9da",
 "/assets\image\twitter_logo.png": "d73d21cfc1df81e923d62e220e790022",
-"/assets\LICENSE": "01005ad6c959121afb9c2511d6443808",
+"/assets\LICENSE": "02179851bfb2ad33a7a3811fed7ef975",
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets\sound\explosion.mp3": "ce38a00a24d7a628c2690bb0de977bf1",
 "/index.html": "982fe212833c645c6911c6279edabc2b",
-"/main.dart.js": "6ce3ca6bbb0e6cda6b5d07c77feeff0e"
+"/main.dart.js": "c2543432b6a002d1d95fe5e462ba75ab"
 };
 
 self.addEventListener('activate', function (event) {
