@@ -10,9 +10,12 @@ const RESOURCES = {
 "assets/LICENSE": "b8d0774952b71ba8cf02b145d2630fe1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/sound/explosion.mp3": "ce38a00a24d7a628c2690bb0de977bf1",
-"index.html": "982fe212833c645c6911c6279edabc2b",
-"/": "982fe212833c645c6911c6279edabc2b",
-"main.dart.js": "6de5f2a70c9b1abec9dc962f773358bd"
+"icons/Icon-192.png": "c4207f0e37194906b4d0b2157cf52eee",
+"icons/Icon-512.png": "d1d23702723945aa00861d696e6e67a4",
+"index.html": "84d6bed4a67e38ddead2952c7226e46c",
+"/": "84d6bed4a67e38ddead2952c7226e46c",
+"main.dart.js": "6de5f2a70c9b1abec9dc962f773358bd",
+"manifest.json": "5f1779aa9fd5e8fe9306d8dc9ab513c0"
 };
 
 self.addEventListener('activate', function (event) {
